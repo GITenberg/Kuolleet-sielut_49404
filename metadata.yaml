@@ -1,0 +1,34 @@
+_repo: Kuolleet-sielut_49404
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - Samuli S.
+    - S., Samuli
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolay Vasilyevich
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: ''
+gutenberg_issued: '2015-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49404'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Kuolleet sielut
+url: http://www.gutenberg.org/ebooks/49404
